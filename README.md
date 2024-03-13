@@ -47,7 +47,7 @@ else:
 print("---------------------------------------------------------------")
 ```
 ## Output :
-![Uploading Screenshot 2024-03-13 185204.png…]()
+![Screenshot 2024-03-13 185204](https://github.com/ROHITHTHUKKARAM/Single-server-infinite-capacity---Markov-Model/assets/159523335/94a25028-8887-44d5-baa6-132565267862)
 
 ## Result :
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
